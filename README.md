@@ -8,3 +8,8 @@
 3. nltk의 모듈 중 하나인 VADER(사전에 기반한 감정분석 툴)을 통해 감정 분석
 
 4. wordcloud를 통한 시각화
+
+
+* wordcloud
+
+<img width="387" alt="wordcloud" src="https://user-images.githubusercontent.com/59947533/93694141-4ce9e900-fb43-11ea-9b6c-73d1e7647231.PNG">
