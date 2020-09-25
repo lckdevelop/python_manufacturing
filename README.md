@@ -24,3 +24,9 @@
 * wordcloud 결과
 
 <img width="387" alt="wordcloud" src="https://user-images.githubusercontent.com/59947533/93694141-4ce9e900-fb43-11ea-9b6c-73d1e7647231.PNG">
+
+
+***
+#### VADER 아쉬운 점
+
+감정분석을 사전을 기반으로 분석하다보니 예를들어 '이 영화는 미쳤다'!(미쳤다 : 최상의 기분을 표현하는 경우), '악당'의 단어가 들어가는 경우 긍정적인 리뷰인 경우에도 부정이라고 판단하는 결과를 낼 수 있다. 
