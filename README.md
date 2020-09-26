@@ -12,7 +12,7 @@ mnist_1.py : 머신을 학습시키는 파일
 
 mnist_2.py : 손 글씨를 인식시켜 결과 도출하는 파일
 
-: 손 글씨 이미지(0~9.png) => 데이터의 흑백화(image_0~9.png) => 컴퓨터가 알아듣는 배열 데이터로 변경(b_0~9.png)
+: 손 글씨 이미지(0-9.png) => 데이터의 흑백화(image_0-9.png) => 컴퓨터가 알아듣는 배열 데이터로 변경(b_0-9.png)
 
 ***
 ![result](https://user-images.githubusercontent.com/59947533/94332305-16164600-000f-11eb-8159-a9a084fcb20f.png)
